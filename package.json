@@ -1,0 +1,28 @@
+{
+  "name": "getting-started-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "webpack-dev-server --watch --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitsj/Getting-Started-RxJS.git"
+  },
+  "author": "Sumit Jadhav",
+  "bugs": {
+    "url": "https://github.com/sumitsj/Getting-Started-RxJS/issues"
+  },
+  "homepage": "https://github.com/sumitsj/Getting-Started-RxJS#readme",
+  "dependencies": {
+    "@types/es6-shim": "^0.31.39",
+    "html-webpack-plugin": "^4.2.0",
+    "rxjs": "^6.5.5",
+    "ts-loader": "^6.2.2",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
